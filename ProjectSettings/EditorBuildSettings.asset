@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main/Main_UI.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Main/Main_Settings.unity
+    guid: 57aa855d2542906479923383eb7126f2
+  - enabled: 1
+    path: Assets/Scenes/Main/GamePreview.unity
+    guid: cdb21be7f666ca74db60c445e21e45ad
+  - enabled: 1
+    path: Assets/Scenes/Minesweeper/Minesweeper.unity
+    guid: 721bf13321f112f48ae219ccfbd518ea
+  - enabled: 1
+    path: Assets/Scenes/Pong/Pong.unity
+    guid: bb43161b02221f94b8fdebefa4925a8f
+  - enabled: 1
+    path: Assets/Scenes/Snake/Snake.unity
+    guid: bd705e0f4840ad2419854082d393af91
+  - enabled: 1
+    path: Assets/Scenes/Breakout/BreakOut1.unity
+    guid: 617b0cfa63f614f4aa4376f4e39d9d69
+  m_configObjects: {}
